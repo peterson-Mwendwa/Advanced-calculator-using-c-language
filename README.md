@@ -76,6 +76,13 @@ To compile the program, use the following command:
 
 ```bash
 gcc student_record_system.c -o student_record_system
+## 🚀 Run the Program
+
+After compiling, run the program with the command:
+
+```bash
+./student_record_system
+
 
 
 1. **Clone the Repository** 📂
