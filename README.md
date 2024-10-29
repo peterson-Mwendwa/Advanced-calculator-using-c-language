@@ -68,6 +68,15 @@ To exit the program:
 ---
 
 ## 💡 How to Run the Project
+# Student Record System 📚
+
+## 🛠️ Compile the Program
+
+To compile the program, use the following command:
+
+```bash
+gcc student_record_system.c -o student_record_system
+
 
 1. **Clone the Repository** 📂
    ```bash
