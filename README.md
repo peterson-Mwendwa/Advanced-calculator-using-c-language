@@ -80,12 +80,7 @@ After compiling, run the program with the command:
 
 ```bash
 ./student_record_system
-🎯 Future Enhancements
-Advanced Sorting: Sort records based on multiple criteria (e.g., grades + name) 📊.
-Visual Reports: Generate charts or tables for better data visualization 📈.
-Export to CSV: Allow users to export data to CSV files for external usage 📥.
-💻 Contribution Guidelines 🤝
-We welcome contributions from everyone! 🥳 If you have ideas to improve the project, feel free to open an issue or submit a pull request.
+
 
 Steps to Contribute 📝
 Fork the Repository 🍴
